@@ -3,8 +3,8 @@ body {
 	padding-top: 4em;
 }
 img {
-	margin: 15px;
-	width: 350px;
+	margin: 2%;
+	width: 96%;
 	display: block;
 }
 
@@ -26,4 +26,8 @@ p {
 	height: 3em;
 	top: 0;
 	left: 0;
+}
+
+section {
+	display: block;
 }
